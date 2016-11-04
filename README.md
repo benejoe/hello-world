@@ -1,2 +1,4 @@
 # hello-world
-really just finding out about github
+
+Ben here, really just finding out about github.
+Not a true multitasker.
